@@ -1,0 +1,22 @@
+control de flujo 
+10
+? si, no , multiples
+repetir muchas veces multiplicar hacer algo con ese 
+
+
+
+decisiones
+  2  condicional si,si y si no 
+        if (algo ){
+            ocurre algo 
+        }
+        if (algo){
+            ocurre algo
+        }else{
+            ocurre otra cosa 
+        }
+
+repeticiones
+    for(inicio;mientras algo; incremento|decremento){
+        ocurre algo
+    }
